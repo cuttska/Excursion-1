@@ -1,0 +1,8 @@
+Camping:
+https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/images/camp.jpg
+
+Phone:
+https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/images/phone.png
+
+video:
+https://www.codecademy.com/courses/freelance1-u3/projects/f1-excursion?program_content_id=3ed6f64c9736ea1d2bef2fdd457c287f&program_id=10b05340b90bb10427851912f36421a2
